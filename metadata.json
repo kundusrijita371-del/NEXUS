@@ -1,0 +1,8 @@
+{
+  "name": "Copy of NEXUS | Smart Issue Reporter",
+  "description": "An AI-powered campus maintenance reporting tool that automatically analyzes photos of issues to dispatch the correct department and assess severity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
